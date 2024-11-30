@@ -2,7 +2,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
 I'm a mobile developer who is passionate about encouraging others to get in the industry. I enjoy community building, content creation and learning deeply about Flutter Framework and android native🥑.
 </div>
 
