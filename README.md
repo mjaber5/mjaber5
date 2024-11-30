@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋!</h2>
+<h2 align="left">Hey, I'm Mohammed!👋</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mjaber5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+I'm a mobile developer who is passionate about encouraging others to get in the industry. I enjoy community building, content creation and learning deeply about Flutter Framework and android native🥑.
 </div>
 
 ###
