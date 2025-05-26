@@ -18,10 +18,7 @@
 <p>
   Let’s connect and build something meaningful together! 🥑
 </p>
-                                                                                                                                                                                                     >
 </div>
-
-
 
 
 
