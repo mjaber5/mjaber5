@@ -14,6 +14,14 @@ I am passionate about continuous learning, exploring advanced technologies, and 
 
 ---
 
+<h3>🏢 Current Work</h3>
+<p>
+I am currently working on <strong>enterprise-grade projects</strong> at my company, where I contribute to building <strong>mobile solutions</strong> that integrate AI, IoT, and real-time services.  
+These projects focus on <strong>scalability</strong>, <strong>performance</strong>, and delivering real business value to clients.  
+</p>
+
+---
+
 <h3>🔎 Focus Areas</h3>
 
 - **Current Projects:** Smart Home IoT applications & AI-driven mobile solutions  
@@ -25,23 +33,40 @@ I am passionate about continuous learning, exploring advanced technologies, and 
 
 <h3>🏆 Achievements</h3>
 
-- 2nd Place – **FinTech Rally University Edition 2024**  
-- Finalist – **Crown Prince Award for Best Government Service App 2025**  
-- **IEEE Member & Web Master** (active involvement in student/tech communities)  
+- 🥈 2nd Place – **FinTech Rally University Edition 2024**  
+- 🎯 Finalist – **Crown Prince Award for Best Government Service App 2025**  
+- 🌍 **IEEE Member & Web Master** (active involvement in student/tech communities)  
 
 ---
 
 <h3>🛠 Technical Skills</h3>
 
 **Languages & Frameworks**  
-Flutter · Dart · Java · C++ · Python · C#
+Flutter · Dart · Java · C++ · Python · C#  
 
 **Tools & Platforms**  
 Firebase · SQL · Git/GitHub · DevOps (CI/CD) · Cloud Fundamentals  
 
 ---
 
+<h3>📂 Portfolio</h3>
+
+<p>
+  🔗 <a href="https://mohajaber5.github.io/My-Protfolio/" target="_blank"><strong>Check out my portfolio here</strong></a>  
+</p>
+
+---
+
 <h3>🌐 Connect With Me</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohammad-jaber-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/mohammad-jaber-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mhammdjbr555@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>  
+
+---
+
+✨ *Let’s connect, collaborate, and build meaningful apps together!* 🚀
