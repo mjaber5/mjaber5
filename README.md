@@ -66,7 +66,3 @@ Firebase · SQL · Git/GitHub · DevOps (CI/CD) · Cloud Fundamentals
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>  
-
----
-
-✨ *Let’s connect, collaborate, and build meaningful apps together!* 🚀
