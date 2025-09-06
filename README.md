@@ -16,8 +16,8 @@ I am passionate about continuous learning, exploring advanced technologies, and 
 
 <h3>🏢 Current Work</h3>
 <p>
-I am currently working on <strong>enterprise-grade projects</strong> at my company, where I contribute to building <strong>mobile solutions</strong> that integrate AI, IoT, and real-time services.  
-These projects focus on <strong>scalability</strong>, <strong>performance</strong>, and delivering real business value to clients.  
+At MUJEER, I work on <strong>enterprise-grade mobile projects</strong>, focusing on <strong>mobile application development</strong> with integrations across <strong>AI</strong>, <strong>IoT</strong>, and <strong>real-time services</strong>.  
+My contributions emphasize <strong>scalability</strong>, <strong>performance</strong>, and delivering meaningful business value to clients.  
 </p>
 
 ---
