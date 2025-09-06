@@ -44,5 +44,4 @@ Firebase · SQL · Git/GitHub · DevOps (CI/CD) · Cloud Fundamentals
 <h3>🌐 Connect With Me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammad-jaber-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/mjaber5" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
