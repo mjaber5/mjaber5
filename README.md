@@ -4,51 +4,59 @@
 
 <h3>🚀 About Me</h3>
 <p>
-  I'm a <strong>mobile developer</strong> passionate about building <strong>intuitive</strong> and <strong>scalable</strong> applications that make a real impact.  
-  My expertise lies in <strong>Flutter</strong> and <strong>native Android development</strong>, where I constantly explore advanced techniques, best practices, and clean architecture to deliver high-quality apps.
+  I'm a <strong>Mobile Developer</strong> passionate about crafting intuitive, scalable, and impactful applications.  
+  My expertise lies in <strong>Flutter</strong> and <strong>native Android development</strong>, and I’m constantly diving deeper into clean architecture, design patterns, and performance optimization.  
 </p>
 
 <p>
-  Beyond code, I’m a strong believer in <strong>community-driven growth</strong>. I enjoy <strong>sharing knowledge</strong>, mentoring, and contributing to initiatives that help developers learn, grow, and succeed in tech.  
+  Beyond coding, I’m an advocate for <strong>tech community growth</strong>—whether by sharing knowledge, mentoring peers, or participating in hackathons and events. I love building solutions that empower people and spark innovation.
 </p>
 
 <ul>
-  <li>🔭 <strong>Currently working on:</strong> AI-powered travel & smart-home mobile solutions</li>
-  <li>🌱 <strong>Exploring:</strong> Flutter internals, Android Jetpack, scalable architectures & CI/CD pipelines</li>
-  <li>💬 <strong>Ask me about:</strong> Flutter, Dart, Android Native, app design patterns, state management, and developer communities</li>
-  <li>📣 <strong>Beliefs:</strong> Lifelong learning, collaboration, open-source, and giving back to the community</li>
+  <li>🔭 <strong>Currently working on:</strong> Smart Home IoT apps & AI-powered mobile solutions</li>
+  <li>🌱 <strong>Learning:</strong> Advanced Flutter internals, Android Jetpack, and scalable app architecture</li>
+  <li>💬 <strong>Ask me about:</strong> Flutter, Dart, Android Native, Clean Architecture, and developer communities</li>
+  <li>🏆 <strong>Highlights:</strong> 
+    <ul>
+      <li>2nd Place – FinTech Rally University Edition 2024</li>
+      <li>Finalist – Crown Prince Award for Best Government Service App 2025</li>
+      <li>Active IEEE Member & Web Master</li>
+    </ul>
+  </li>
+  <li>📣 <strong>Belief:</strong> Lifelong learning, collaboration, and giving back to the community</li>
 </ul>
 
-###
-
-<h3>⚡ Tech Stack</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,java,firebase,git,github,figma&perline=6" />
-</p>
-
-###
-
-<h3>📈 GitHub Stats</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mjaber5&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjaber5&theme=radical" alt="GitHub Streak" />
-</p>
-
-###
-
-<h3>🌍 Connect with Me</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/mjaber" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mojaber.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/mjaber" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+  Let’s connect and build something meaningful together! 🚀
 </p>
 
 ---
 
-✨ *Let’s connect and build something meaningful together!* 🚀
+<h3>🛠 Tech Stack</h3>
+
+<p>
+  <strong>Languages & Frameworks:</strong><br/>
+  Flutter · Dart · Java · C++ · JavaScript · Node.js · React Native
+</p>
+
+<p>
+  <strong>Other Skills:</strong><br/>
+  Firebase · SQL · Git/GitHub · DevOps (CI/CD) · Cloud Basics
+</p>
+
+---
+
+<h3>📌 Featured Projects</h3>
+
+- 📱 <a href="https://github.com/mjaber5/Qanoni-App">Qanoni</a>: A legal application built with MVVM Clean Architecture, supported by KAFD & JCDDC  
+- 🤖 <a href="https://github.com/mjaber5/MJS">MJS Social Media App</a>: A Flutter app with authentication, real-time posts, and Firebase backend  
+- 💡 Digital Home: Smart home control app (IoT + Flutter + Firebase)  
+- 🌌 SmartVerse: Educational Flutter game teaching IoT concepts  
+
+---
+
+<h3>🌍 Let's Connect</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammad-jaber-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/mjaber5" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
