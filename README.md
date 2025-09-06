@@ -34,19 +34,10 @@ I am passionate about continuous learning, exploring advanced technologies, and 
 <h3>🛠 Technical Skills</h3>
 
 **Languages & Frameworks**  
-Flutter · Dart · Java · C++ · JavaScript · Node.js · React Native  
+Flutter · Dart · Java · C++ · Python · C#
 
 **Tools & Platforms**  
 Firebase · SQL · Git/GitHub · DevOps (CI/CD) · Cloud Fundamentals  
-
----
-
-<h3>📌 Selected Projects</h3>
-
-- 📱 **[Qanoni](https://github.com/mjaber5/Qanoni-App)** – Legal mobile application (MVVM Clean Architecture), supported by KAFD & JCDDC  
-- 🤖 **[MJS Social Media App](https://github.com/mjaber5/MJS)** – Flutter app with authentication, real-time posts, and Firebase backend  
-- 💡 **Digital Home** – IoT-based smart home control app using Flutter & Firebase  
-- 🌌 **SmartVerse** – Educational Flutter game introducing IoT concepts  
 
 ---
 
