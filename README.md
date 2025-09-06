@@ -16,7 +16,7 @@ I am passionate about continuous learning, exploring advanced technologies, and 
 
 <h3>🏢 Current Work</h3>
 <p>
-At MUJEER, I work on <strong>enterprise-grade mobile projects</strong>, focusing on <strong>mobile application development</strong> with integrations across <strong>AI</strong>, <strong>IoT</strong>, and <strong>real-time services</strong>.  
+At MUJEER, I work on <strong>enterprise-grade mobile projects</strong>, focusing on <strong>mobile application development</strong> with integrations across <strong>AI</strong>, and <strong>real-time services</strong>.  
 My contributions emphasize <strong>scalability</strong>, <strong>performance</strong>, and delivering meaningful business value to clients.  
 </p>
 
