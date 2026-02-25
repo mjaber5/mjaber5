@@ -47,6 +47,18 @@ REST APIs · Real-time Services · Multi-tenant SaaS · Performance Optimization
 
 ---
 
+<h3>🔐 Security & Architecture Focus</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/OWASP-MASVS-red?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mobile%20Security-Risk%20Engine-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Runtime%20Protection-Integrity%20Monitoring-darkgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SSL%20Pinning-Implemented-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Replay%20Protection-Enabled-orange?style=for-the-badge"/>
+</p>
+
+---
+
 <h3>🏆 Recognition</h3>
 
 - 🥈 2nd Place — FinTech Rally 2024  
@@ -66,6 +78,3 @@ REST APIs · Real-time Services · Multi-tenant SaaS · Performance Optimization
   </a>
 </p>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mjaber5&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mjaber5&layout=compact&theme=tokyonight)
