@@ -1,24 +1,27 @@
-<h1 align="left">Mohammad Jaber 👋</h1>
+<h1 align="center">Mohammad Jaber 👋</h1>
 
-<p>
-Mobile Software Engineer specializing in <strong>secure, scalable, and production-grade mobile systems</strong>.
-I architect fintech security layers, runtime risk engines, and server-driven mobile platforms using Flutter with native Android (Kotlin) and iOS (Swift) integrations.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Mobile+Systems+Engineer;FinTech+Security+Architect;Server-Driven+UI+Specialist;Risk-Based+Mobile+Security;Flutter+%2B+Native+Integration+Expert" />
+</p>
+
+<p align="center">
+  Architecting secure, scalable, and production-grade mobile systems.
 </p>
 
 ---
 
-<h2>🔐 Security-Driven Mobile Engineering</h2>
+## 🔐 Security-Driven Engineering
 
-<ul>
-<li>Runtime Risk Engine (40+ adaptive threat signals)</li>
-<li>Risk-based access control & fail-secure execution modeling</li>
-<li>OWASP MASVS-aligned mobile resilience</li>
-<li>SSL Pinning & Replay Attack Mitigation</li>
-<li>Runtime integrity monitoring (root / jailbreak / instrumentation detection)</li>
-<li>Encrypted API communication (AES-based secure transport)</li>
-</ul>
+I design and implement **risk-aware mobile security architectures** with production-level resilience:
 
-<p>
+- Runtime Risk Engine (40+ adaptive threat signals)
+- Risk-Based Access Control & Fail-Secure Modeling
+- OWASP MASVS-aligned mobile protection
+- SSL Pinning & Replay Attack Mitigation
+- Runtime Integrity Monitoring (Root / Jailbreak / Instrumentation detection)
+- Encrypted API Communication (AES-secured transport)
+
+<p align="center">
   <img src="https://img.shields.io/badge/OWASP-MASVS-red?style=for-the-badge&logo=owasp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mobile%20Security-Risk%20Engine-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Runtime%20Protection-Integrity%20Monitoring-darkgreen?style=for-the-badge"/>
@@ -28,18 +31,19 @@ I architect fintech security layers, runtime risk engines, and server-driven mob
 
 ---
 
-<h2>📱 Mobile Architecture</h2>
+## 📱 Mobile Architecture
 
-<ul>
-<li>Server-Driven UI (SDUI) rendering systems</li>
-<li>Multi-tenant SaaS mobile platforms</li>
-<li>FinTech-grade transaction flows</li>
-<li>Adaptive UI (dynamic AppBar & status bar contrast)</li>
-<li>Contextual haptic feedback systems</li>
-<li>Performance-critical rendering optimization</li>
-</ul>
+I architect scalable mobile systems across fintech, SaaS, and server-driven commerce platforms:
 
-<p>
+- Server-Driven UI (SDUI) rendering systems
+- Multi-tenant SaaS mobile platforms
+- FinTech-grade transaction flows
+- Adaptive UI (Dynamic AppBar & Status Bar contrast logic)
+- Contextual Haptic Feedback systems
+- Performance-critical rendering optimization
+- Native integrations (Kotlin / Swift via Platform Channels)
+
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-Advanced-blue?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clean%20Architecture-Implemented-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/BLoC-State%20Management-1f425f?style=for-the-badge"/>
@@ -49,53 +53,45 @@ I architect fintech security layers, runtime risk engines, and server-driven mob
 
 ---
 
-<h2>⚙️ Technical Stack</h2>
+## ⚙️ Technical Stack
 
-<strong>Mobile</strong><br>
+### 📱 Mobile
 Flutter · Dart · Android (Kotlin) · iOS (Swift) · Platform Channels  
 
-<strong>Architecture</strong><br>
-Clean Architecture · BLoC · Dependency Injection · Modular Design  
+### 🏗 Architecture
+Clean Architecture · BLoC · Modular Design · Dependency Injection  
 
-<strong>Security</strong><br>
-OWASP MASVS · Runtime Integrity Monitoring · SSL Pinning · Encrypted APIs · Risk-Based Access Control  
+### 🔐 Security
+OWASP MASVS · SSL Pinning · Replay Protection · Runtime Integrity Monitoring · Risk-Based Decision Modeling  
 
-<strong>Systems</strong><br>
-REST APIs · Real-time Services · Multi-tenant SaaS · Performance Optimization  
-
-<strong>Tools</strong><br>
-Git · GitHub · Firebase · SQL · CI/CD · Cloud Fundamentals  
+### ⚙ Systems
+REST APIs · Real-time Services · Multi-tenant SaaS · CI/CD · Cloud Fundamentals  
 
 ---
 
-<h2>🏢 Professional Work</h2>
+## 🧠 Engineering Mindset
 
-<strong>FinTech Security Architecture</strong><br>
-Designed and implemented a production-grade runtime security layer featuring adaptive risk scoring and multi-signal threat detection.
+###diff
++ Security by Design
++ Risk-Based Execution Logic
++ Fail-Secure Architecture
++ Context-Aware UX Decisions
++ Scalable System Thinking
 
-<strong>SaaS Workforce Platform</strong><br>
-Architected multi-tenant attendance & workflow management system with role-based access control and biometric authentication.
-
-<strong>Server-Driven Commerce Platform</strong><br>
-Built dynamic mobile rendering engine enabling remote layout configuration without requiring client updates.
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohajaber5&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohajaber5&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
-<h2>🏆 Recognition</h2>
-
-- 🥈 2nd Place — FinTech Rally 2024  
-- 🎯 Finalist — Crown Prince Award 2025  
-- 🌍 IEEE Member & Web Master  
-
----
-
-<h2>🌐 Connect</h2>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammad-jaber-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-jaber-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:mhammdjbr555@gmail.com" target="_blank">
+  <a href="mailto:mhammdjbr555@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
