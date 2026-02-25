@@ -1,1 +1,67 @@
-<h1 align="left">Mohammad Jaber 👋</h1> <p> Mobile Software Engineer specializing in <strong>secure, scalable, and production-grade mobile systems</strong>. I architect fintech security layers, runtime risk engines, and server-driven mobile platforms using Flutter with native Android (Kotlin) and iOS (Swift) integrations. </p> --- <h2>🔐 Security-Driven Mobile Engineering</h2> <ul> <li>Runtime Risk Engine (40+ adaptive threat signals)</li> <li>Risk-based access control & fail-secure execution modeling</li> <li>OWASP MASVS-aligned mobile resilience</li> <li>SSL Pinning & Replay Attack Mitigation</li> <li>Runtime integrity monitoring (root / jailbreak / instrumentation detection)</li> <li>Encrypted API communication (AES-based secure transport)</li> </ul> <p> <img src="https://img.shields.io/badge/OWASP-MASVS-red?style=for-the-badge&logo=owasp&logoColor=white"/> <img src="https://img.shields.io/badge/Mobile%20Security-Risk%20Engine-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/Runtime%20Protection-Integrity%20Monitoring-darkgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/SSL%20Pinning-Implemented-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Replay%20Protection-Enabled-orange?style=for-the-badge"/> </p> --- <h2>📱 Mobile Architecture</h2> <ul> <li>Server-Driven UI (SDUI) rendering systems</li> <li>Multi-tenant SaaS mobile platforms</li> <li>FinTech-grade transaction flows</li> <li>Adaptive UI (dynamic AppBar & status bar contrast)</li> <li>Contextual haptic feedback systems</li> <li>Performance-critical rendering optimization</li> </ul> <p> <img src="https://img.shields.io/badge/Flutter-Advanced-blue?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Clean%20Architecture-Implemented-purple?style=for-the-badge"/> <img src="https://img.shields.io/badge/BLoC-State%20Management-1f425f?style=for-the-badge"/> <img src="https://img.shields.io/badge/Server%20Driven%20UI-SDUI-critical?style=for-the-badge"/> <img src="https://img.shields.io/badge/FinTech-Production%20Grade-success?style=for-the-badge"/> </p> --- <h2>⚙️ Technical Stack</h2> <strong>Mobile</strong><br> Flutter · Dart · Android (Kotlin) · iOS (Swift) · Platform Channels <strong>Architecture</strong><br> Clean Architecture · BLoC · Dependency Injection · Modular Design <strong>Security</strong><br> OWASP MASVS · Runtime Integrity Monitoring · SSL Pinning · Encrypted APIs · Risk-Based Access Control <strong>Systems</strong><br> REST APIs · Real-time Services · Multi-tenant SaaS · Performance Optimization <strong>Tools</strong><br> Git · GitHub · Firebase · SQL · CI/CD · Cloud Fundamentals --- <h2>🏢 Professional Work</h2> <strong>FinTech Security Architecture</strong><br> Designed and implemented a production-grade runtime security layer featuring adaptive risk scoring and multi-signal threat detection. <strong>SaaS Workforce Platform</strong><br> Architected multi-tenant attendance & workflow management system with role-based access control and biometric authentication. <strong>Server-Driven Commerce Platform</strong><br> Built dynamic mobile rendering engine enabling remote layout configuration without requiring client updates. --- <h2>🏆 Recognition</h2> - 🥈 2nd Place — FinTech Rally 2024 - 🎯 Finalist — Crown Prince Award 2025 - 🌍 IEEE Member & Web Master --- <h2>🌐 Connect</h2> <p align="left"> <a href="https://www.linkedin.com/in/mohammad-jaber-profile" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:mhammdjbr555@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<h2 align="left">Mohammad Jaber 👋</h2>
+
+<p>
+Mobile Software Engineer specializing in <strong>secure, scalable, and production-grade mobile systems</strong>.
+I design and architect fintech security layers, server-driven UI platforms, and multi-tenant SaaS applications using Flutter with native integrations.
+</p>
+
+---
+
+<h3>🔐 What I Build</h3>
+
+- Runtime Security Architectures (Risk Engine · Threat Detection · OWASP MASVS-aligned)
+- FinTech-grade transaction flows & encrypted API communication
+- Server-Driven UI (SDUI) rendering systems
+- Multi-tenant SaaS mobile platforms
+- Adaptive, performance-critical mobile interfaces
+- Native Android (Kotlin) & iOS (Swift) integrations
+
+---
+
+<h3>🏢 Professional Experience</h3>
+
+<strong>FinTech Security Engineering</strong>  
+Designed a runtime risk engine evaluating 40+ adaptive threat signals with risk-based access control and fail-secure execution modeling.
+
+<strong>SaaS Workforce Platform</strong>  
+Architected multi-tenant attendance and workflow systems with role-based access control and biometric authentication.
+
+<strong>Server-Driven Commerce Platform</strong>  
+Implemented dynamic UI rendering architecture enabling remote layout configuration without client updates.
+
+---
+
+<h3>⚙️ Technical Stack</h3>
+
+<strong>Mobile</strong>  
+Flutter · Dart · Android (Kotlin) · iOS (Swift) · Platform Channels  
+
+<strong>Architecture</strong>  
+Clean Architecture · BLoC · Dependency Injection · Modular Design  
+
+<strong>Security</strong>  
+OWASP MASVS · Runtime Integrity Monitoring · SSL Pinning · Encrypted APIs · Risk-Based Access Control  
+
+<strong>Systems</strong>  
+REST APIs · Real-time Services · Multi-tenant SaaS · Performance Optimization  
+
+---
+
+<h3>🏆 Recognition</h3>
+
+- 🥈 2nd Place — FinTech Rally 2024  
+- 🎯 Finalist — Crown Prince Award 2025  
+- 🌍 IEEE Member & Web Master  
+
+---
+
+<h3>🌐 Connect</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammad-jaber-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mhammdjbr555@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
