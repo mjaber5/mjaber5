@@ -66,5 +66,6 @@ REST APIs · Real-time Services · Multi-tenant SaaS · Performance Optimization
   </a>
 </p>
 
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjaber5&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjaber5&layout=compact&theme=tokyonight)
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohajaber5&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohajaber5&layout=compact&theme=tokyonight&cache_seconds=1800)
