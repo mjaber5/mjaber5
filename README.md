@@ -1,5 +1,8 @@
-# Mohammad Jaber 👋
-## Mobile Software Engineer | UI/UX & Security Specialist
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Mohammad Jaber
+
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007AFF&width=435&lines=Mobile+Software+Engineer;Flutter+Specialist;UI/UX+%26+Security+Specialist;Clean+Architecture+Expert" alt="Typing SVG" />
+</div>
 
 <div align="left">
   <a href="https://mojaber.me/" target="_blank">
@@ -16,25 +19,48 @@
 ---
 
 ### 🚀 Executive Summary
-I am a **Mobile Software Engineer** dedicated to bridging the gap between robust engineering and intuitive product vision. I specialize in building **secure, high-performance, and scalable mobile ecosystems** using Flutter. My approach is rooted in **Clean Architecture**, a deep focus on **Cyber Security**, and a passion for **Premium UI/UX**.
+I am a **Mobile Software Engineer** dedicated to bridging the gap between robust engineering and intuitive product vision. I specialize in building **secure, high-performance, and scalable mobile ecosystems** using Flutter.
 
 ---
 
-### 🛡️ Core Specialized Pillars
+### 🛠️ Specialized Pillars
+*Click to expand my technical approach*
 
-#### 1. Security & Integrity Engineering
+<details>
+<summary><b>🛡️ Security & Integrity Engineering</b></summary>
+<br>
+
 *   **Runtime Security Architectures**: Designing Risk Engines and Threat Detection layers aligned with **OWASP MASVS**.
 *   **Defensive Implementation**: Root/Jailbreak detection and encrypted API communication for secure financial transactions.
 *   **Privacy-First Design**: Implementing biometric gating and secure authentication at the mobile edge.
+</details>
 
-#### 2. Architectural Excellence
+<details>
+<summary><b>🏗️ Architectural Excellence</b></summary>
+<br>
+
 *   **Clean & Modular Design**: Implementing scalable, testable architectures using BLoC and Dependency Injection.
 *   **Server-Driven UI (SDUI)**: Developing dynamic rendering systems that decouple UI updates from store deployments.
 *   **Multi-Tenant SaaS**: Building white-labelable mobile platforms supporting complex enterprise workflows.
+</details>
 
-#### 3. Product-Centric UI/UX
+<details>
+<summary><b>🎨 Product-Centric UI/UX</b></summary>
+<br>
+
 *   **High-Fidelity Interaction**: Engineering pixel-perfect, liquid-smooth interfaces that prioritize user experience and accessibility.
 *   **Design Systems**: Implementing robust component libraries to ensure consistency between design and production.
+</details>
+
+---
+
+### 📱 UI/UX Showcase
+*Demonstrating liquid-smooth Flutter animations and clean design*
+
+<div align="center">
+  <!-- You can replace this with a GIF of your best project -->
+  <img src="https://raw.githubusercontent.com/mjaber5/mjaber5/main/assets/demo.gif" onerror="this.src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3Q1eHpsZ3Q1eHpsZ3Q1eHpsZ3Q1eHpsZ3Q1eHpsJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif'" width="80%" alt="App Demo" />
+</div>
 
 ---
 
@@ -46,35 +72,32 @@ I am a **Mobile Software Engineer** dedicated to bridging the gap between robust
 **SaaS Workforce Solutions**  
 > Engineered a multi-tenant attendance and workflow system with biometric authentication, handling complex enterprise organizational hierarchies.
 
-**Server-Driven Commerce Systems**  
-> Implemented a proprietary SDUI rendering architecture enabling remote layout configuration, significantly reducing iteration cycles.
-
 ---
 
 ### ⚙️ Technical Ecosystem
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Mobile Core** | Flutter, Dart, Native Android (Kotlin), Native iOS (Swift), Platform Channels |
-| **Security** | OWASP MASVS, Encrypted APIs |
-| **Architecture** | Clean Architecture, BLoC/Cubit, GetIt, Modularization, SDUI |
-| **Infrastructure** | RESTful APIs, Multi-tenant Logic |
-
----
-
-### 🏆 Recognition & Memberships
-*   🥈 **2nd Place** — FinTech Rally 2024
-*   🎯 **Finalist** — Crown Prince Award 2025
-*   🌍 **IEEE Member** — Web Master
+| **Mobile Core** | `Flutter`, `Dart`, `Android (Kotlin)`, `iOS (Swift)`, `Platform Channels` |
+| **Security** | `OWASP MASVS`, `Encrypted APIs`, `Jailbreak Detection` |
+| **Architecture** | `Clean Architecture`, `BLoC/Cubit`, `GetIt`, `Modularization`, `SDUI` |
+| **Infrastructure** | `RESTful APIs`, `Multi-tenant Logic`, `Firebase` |
 
 ---
 
 ### 📊 GitHub Activity
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mjaber5&show_icons=true&theme=transparent&hide_border=true" alt="Mohammad Jaber's GitHub Stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjaber5&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjaber5&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
 <p align="center">
-  <i>"Code is poetry, but Security is the rhythm that keeps it from falling apart."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007AFF&height=100&section=footer" width="100%"/>
 </p>
