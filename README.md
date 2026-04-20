@@ -24,8 +24,8 @@ I am a **Mobile Software Engineer** dedicated to bridging the gap between robust
 
 #### 1. Security & Integrity Engineering
 *   **Runtime Security Architectures**: Designing Risk Engines and Threat Detection layers aligned with **OWASP MASVS**.
-*   **Defensive Implementation**: SSL Pinning, Root/Jailbreak detection, and encrypted API communication for secure financial transactions.
-*   **Privacy-First Design**: Implementing biometric gating and role-based access control (RBAC) at the mobile edge.
+*   **Defensive Implementation**: Root/Jailbreak detection and encrypted API communication for secure financial transactions.
+*   **Privacy-First Design**: Implementing biometric gating and secure authentication at the mobile edge.
 
 #### 2. Architectural Excellence
 *   **Clean & Modular Design**: Implementing scalable, testable architectures using BLoC and Dependency Injection.
@@ -41,7 +41,7 @@ I am a **Mobile Software Engineer** dedicated to bridging the gap between robust
 ### 🏢 Key Contributions
 
 **FinTech Security Engineering**  
-> Developed a runtime risk engine evaluating 40+ adaptive threat signals with risk-based access control and fail-secure execution modeling.
+> Developed a runtime risk engine evaluating 40+ adaptive threat signals with fail-secure execution modeling.
 
 **SaaS Workforce Solutions**  
 > Engineered a multi-tenant attendance and workflow system with biometric authentication, handling complex enterprise organizational hierarchies.
@@ -56,9 +56,9 @@ I am a **Mobile Software Engineer** dedicated to bridging the gap between robust
 | **Category** | **Technologies** |
 | :--- | :--- |
 | **Mobile Core** | Flutter, Dart, Native Android (Kotlin), Native iOS (Swift), Platform Channels |
-| **Security** | OWASP MASVS, SSL Pinning, Integrity Monitoring, Encrypted APIs, RBAC |
+| **Security** | OWASP MASVS, Encrypted APIs |
 | **Architecture** | Clean Architecture, BLoC/Cubit, GetIt, Modularization, SDUI |
-| **Infrastructure** | RESTful APIs, WebSockets, CI/CD Pipelines, Multi-tenant Logic |
+| **Infrastructure** | RESTful APIs, Multi-tenant Logic |
 
 ---
 
