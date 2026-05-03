@@ -58,14 +58,6 @@ I specialize in:
 
 ---
 
-## 📱 Product Showcase
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mjaber5/mjaber5/main/assets/demo.gif" width="85%" />
-</div>
-
----
-
 ## 🏢 Selected Contributions
 
 ### FinTech Security System
