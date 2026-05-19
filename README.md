@@ -1,6 +1,6 @@
 <div align="center">
   <blockquote>
-    <h2><strong>The best fighter is NEVER angry</strong></h2>
+    <h2><strong>Calm minds create powerful systems</strong></h2>
   </blockquote>
 </div>
 
