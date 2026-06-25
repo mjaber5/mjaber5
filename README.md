@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/mjaber5.png" width="120" alt="Mohammed Jaber"/>
-
 # Mohammed Jaber
 
 **Mobile Engineer · Flutter · Mobile Security**
@@ -149,17 +147,6 @@ Two MIT-licensed Flutter packages, published and maintained on pub.dev.
 | [**Qanoni**](https://github.com/mjaber5/Qanoni-App) — Legal Contract Management | Crown Prince Award Finalist 2025 · AI legal chatbot, PDF processing, payments — Clean Architecture (MVVM), Firebase |
 | **Dispute Management System** | 2nd Place — FinTech Rally 2024, national-level financial dispute-resolution system |
 | [**MJS**](https://github.com/mjaber5/MJS) — Social Media App | Full social platform — auth, profiles, real-time likes/comments, follow system, notifications |
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mjaber5&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=2563EB&text_color=C9D1D9&icon_color=2563EB" width="49%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjaber5&layout=compact&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=C9D1D9" width="42%" alt="Top languages"/>
-
-</div>
 
 <br/>
 
