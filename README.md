@@ -8,7 +8,6 @@ Building secure, production-grade mobile experiences for digital banking and bey
 
 <img src="https://komarev.com/ghpvc/?username=mjaber5&label=Profile%20Views&color=1F2937&style=flat-square" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/mjaber5?label=Followers&style=flat-square&color=1F2937" alt="Followers"/>
-<img src="https://img.shields.io/badge/Amman%2C%20Jordan-1F2937?style=flat-square&label=📍" alt="Location"/>
 
 [About](#about-me) · [Tech Stack](#tech-stack) · [Experience](#experience) · [Open Source](#open-source-work) · [Projects](#featured-projects) · [Contact](#lets-connect)
 
