@@ -6,8 +6,6 @@
 
 Building secure, production-grade mobile experiences for digital banking and beyond.
 
-[About](#about-me) · [Tech Stack](#tech-stack) · [Experience](#experience) · [Open Source](#open-source-work) · [Projects](#featured-projects) · [Contact](#lets-connect)
-
 </div>
 
 <br/>
@@ -23,40 +21,6 @@ I designed a runtime security architecture for a digital banking platform — ad
 - Deepening expertise in mobile application security — root/jailbreak detection, hooking-framework checks, fail-secure design
 - Maintaining [`adaptive_foreground`](https://pub.dev/packages/adaptive_foreground) and [`veil_ui`](https://pub.dev/packages/veil_ui) on pub.dev
 - B.Sc. in Computing Smart Devices — Tafila Technical University (2025)
-
-<br/>
-
-## Tech Stack
-
-**Mobile**
-
-![Flutter](https://img.shields.io/badge/-Flutter-1F2937?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-1F2937?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-1F2937?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-1F2937?style=flat-square&logo=swift&logoColor=white)
-
-**Architecture**
-
-![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-1F2937?style=flat-square)
-![BLoC/Cubit](https://img.shields.io/badge/-BLoC%2FCubit-1F2937?style=flat-square)
-![MVVM](https://img.shields.io/badge/-MVVM-1F2937?style=flat-square)
-![SOLID](https://img.shields.io/badge/-SOLID-1F2937?style=flat-square)
-![Server--Driven UI](https://img.shields.io/badge/-Server--Driven%20UI-1F2937?style=flat-square)
-
-**Security**
-
-![OWASP MASVS](https://img.shields.io/badge/-OWASP%20MASVS-1F2937?style=flat-square)
-![Biometric Auth](https://img.shields.io/badge/-Biometric%20Auth-1F2937?style=flat-square)
-![Secure Storage](https://img.shields.io/badge/-Secure%20Storage-1F2937?style=flat-square)
-
-**Backend & Tooling**
-
-![Firebase](https://img.shields.io/badge/-Firebase-1F2937?style=flat-square&logo=firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-1F2937?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-1F2937?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-1F2937?style=flat-square&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-1F2937?style=flat-square&logo=androidstudio&logoColor=white)
-![Xcode](https://img.shields.io/badge/-Xcode-1F2937?style=flat-square&logo=xcode&logoColor=white)
 
 <br/>
 
@@ -112,22 +76,6 @@ I designed a runtime security architecture for a digital banking platform — ad
 
 Two MIT-licensed Flutter packages, published and maintained on pub.dev.
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/mjaber5/veil_ui/main/assets/demo_appbar.gif" width="220"/><br/>
-<sub><b>veil_ui</b> — GlassAppBar</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/mjaber5/veil_ui/main/assets/demo_modal.gif" width="220"/><br/>
-<sub><b>veil_ui</b> — Modal Sheet</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/mjaber5/flutter_adaptive_foreground/main/assets/demo.gif" width="220"/><br/>
-<sub><b>adaptive_foreground</b> — Live Contrast</sub>
-</td>
-</tr>
-</table>
 
 | Package | Description | Links |
 |---|---|---|
