@@ -12,7 +12,7 @@ Building secure, production-grade mobile experiences for digital banking and bey
 
 ## About Me
 
-Mobile engineer with **3+ years** of hands-on Flutter development, including production work across **digital banking**, SaaS workforce platforms, server-driven e-commerce, and enterprise field operations. My background spans native Android (Java) and cross-platform Flutter, with a growing focus on **mobile application security**.
+Mobile engineer with **2+ years** of hands-on Flutter development, including production work across **digital banking**, SaaS workforce platforms, server-driven e-commerce, and enterprise field operations. My background spans native Android (Java) and cross-platform Flutter, with a growing focus on **mobile application security**.
 
 I designed a runtime security architecture for a digital banking platform — adaptive threat signals, risk-based access control, and **OWASP MASVS**-aligned resilience across native Kotlin/Swift detection layers and a Flutter risk engine. Author of **2 open-source Flutter packages** on pub.dev.
 
