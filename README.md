@@ -26,7 +26,7 @@ I designed a runtime security architecture for a digital banking platform — ad
 
 ## Experience
 
-**Mobile Engineer · MUJEER** — Amman, Jordan &nbsp;|&nbsp; *Jun 2025 – Present*
+**Mobile Engineer · MUJEER** — Amman, Jordan &nbsp;|&nbsp; *Jun 2025 – Sep 2026*
 
 <details>
 <summary><b>Digital Banking Application</b></summary>
